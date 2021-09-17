@@ -1,6 +1,6 @@
-## HI, I'm [Kunal Jain!](https://pawan.live) 👋
+## HI, I'm [Kunal Jain!]() 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="" /> </p>
 
 <a href="">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -23,12 +23,13 @@
 <a href="">
   <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
-
-<br/>
-<br/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="khushboogoel01" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="" /> </p> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
+
+<br/>
+<br/>
+
 
 
 <!-- - 🔭 I’m currently working on [Frontier](https://frontier.xyz/).
