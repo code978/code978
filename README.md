@@ -1,4 +1,4 @@
-## Hola, I'm [Kunal Jain!](https://pawan.live) 👋
+## HI, I'm [Kunal Jain!](https://pawan.live) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
